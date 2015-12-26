@@ -1,0 +1,20 @@
+PODS:
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - Masonry (0.6.3)
+  - YYModel (0.9.8)
+
+DEPENDENCIES:
+  - FMDB
+  - Masonry
+  - YYModel
+
+SPEC CHECKSUMS:
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  YYModel: 4da6b5c42a850e5c81c800de5ba69afe675c6e6f
+
+COCOAPODS: 0.39.0

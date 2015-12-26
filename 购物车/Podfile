@@ -1,0 +1,7 @@
+platform :ios, "8.0"
+
+target :'shoppingcart-demo' do
+pod 'Masonry'
+pod 'FMDB'
+pod 'YYModel'
+end
